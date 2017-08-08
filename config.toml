@@ -6,6 +6,8 @@ theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+publishDir = "docs"
+
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -37,5 +39,5 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     width = 50
     height = 50
     alt = "Logo"
-    publishDir = "docs"
+  
 
