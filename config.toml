@@ -37,7 +37,5 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     width = 50
     height = 50
     alt = "Logo"
-    publishDir = "docs"#a new line l added
-    #This makes the HTML page be generated #into ".docs" folder and setting of ya #Github pages will be later much easier.
-    
+    publishDir = "docs"
 
