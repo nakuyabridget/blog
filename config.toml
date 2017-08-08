@@ -18,7 +18,7 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     url = "https://github.com/nakuyabridget"
 [[menu.main]]
     name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    url = "https://twitter.com/nakuya_bridget"
 
 [params]
     description = "A website built through Hugo and blogdown."
@@ -37,8 +37,6 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     width = 50
     height = 50
     alt = "Logo"
-     blogdown::serve_site()
-    blogdown::install_theme
     publishDir = "docs"#a new line l added
     #This makes the HTML page be generated #into ".docs" folder and setting of ya #Github pages will be later much easier.
     
