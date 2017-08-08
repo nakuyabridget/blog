@@ -6,7 +6,8 @@ theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
-publishDir = "public"
+publishDir = "docs"
+
 
 
 [permalinks]
